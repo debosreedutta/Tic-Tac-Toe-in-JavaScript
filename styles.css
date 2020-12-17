@@ -130,13 +130,13 @@ body {
 .winning-message button {
   font-size: 3rem;
   background-color: white;
-  border: 1px solid black;
+  border: 1px solid maroon;
   padding: .25em .5em;
   cursor: pointer;
 }
 
 .winning-message button:hover {
-  background-color: black;
+  background-color: maroon;
   color: white;
   border-color: white;
 }
